@@ -1,0 +1,30 @@
+[256, 128, 128]
+
+Ant BC (50 rollouts)
+mean return 4780.049475996349
+std of return 60.13551040646535
+
+
+Humanoid (100 rollouts)
+mean return 10401.396212770218
+std of return 50.150881529774686
+
+
+Hopper (50 rollouts)
+mean return 2370.4671940420058
+std of return 407.84530308539786
+
+
+Reacher (50 rollouts)
+mean return -4.377979878202135
+std of return 1.8385172165412167
+
+
+Walker (50 rollouts)
+mean return 5527.104755074372
+std of return 48.708126114341724
+
+
+Halfcheetah (50 rollouts)
+mean return 4137.150226831264
+std of return 30.736799489792816
