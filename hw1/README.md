@@ -1,6 +1,6 @@
 # CS294-112 HW 1: Imitation Learning
 
-##Behavioral Cloning
+## Behavioral Cloning
 
 ```
 #Create Dataset
@@ -14,7 +14,7 @@ python3 behavioral_cloning.py --env_name 'humanoid' --render
 ```
 
 
-##Dagger
+## Dagger
 
 ```
 python3 dagger.py --train --env_name humanoid --render --init_rollouts 5 --iterations 40 --per_iteration_rollout 4
